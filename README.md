@@ -1,0 +1,1 @@
+This repository contains an example of a potential buffer overflow in x86 assembly code. The `bug.asm` file shows the vulnerable code, while `bugSolution.asm` demonstrates a corrected version with bounds checking.  Understanding buffer overflows is crucial for writing secure assembly code.
